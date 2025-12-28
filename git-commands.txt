@@ -1,0 +1,19 @@
+git --version
+    2  git init
+    3  git status
+    4  git add testing.py
+    5  git status
+    6  git status
+    7  git commit -m "added testing files"
+    8  git status
+    9  git rm testing.py
+   10  git restore testing.py
+   11  git status
+   12  git restore testing.py
+   13  git restoretesting.py
+   14  restore testing.py
+   15  git status
+   16  git restore testing.py
+   17  git restore --staged testing.py
+   18  git restore testing.py
+   19  history
